@@ -22,7 +22,7 @@ If you haven't already, download and install the Arduino IDE from [arduino.cc](h
 
 ### 3. Install ESP32 Board Package
 
-1. Go to **Tools > Board > Boards Manager**
+1. Go to **Tools > Board > Boards Manager** or on the Left Tabs click on **Boards Manager**
 2. In the search box, type "esp32"
 3. Find "ESP32 by Espressif Systems" 
 4. Click "Install"
