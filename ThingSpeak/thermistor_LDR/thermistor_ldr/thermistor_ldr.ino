@@ -2,12 +2,12 @@
 #include "ThingSpeak.h"
 
 // WiFi credentials
-char ssid[] = "Zakaria Guhad";
-char pass[] = "Liverpool2019";
+char ssid[] = "Wifi_name"; // your wifi name
+char pass[] = "password"; // your wifi password
 
 // ThingSpeak credentials
-unsigned long channelID = 2872443;
-const char* apiKey = "HKKAJI9Z739MXPRY";
+unsigned long channelID = channelID; // Enter you channel ID
+const char* apiKey = "your_api_key"; // enter your write api key
 
 // Pin definitions
 #define THERMISTOR_PIN 34
